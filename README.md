@@ -1,4 +1,4 @@
-![Semaphore Sign](https://github.com/user-attachments/assets/0321afe6-b1ed-422a-853c-d8151a302ebb)
+![Live Long and Prosper](https://github.com/user-attachments/assets/e15c313e-81a8-4054-a088-a13e99bdfad2)
 
 > Alphanumeric and symbol semaphore systems and non-verbal communication.
 
@@ -17,7 +17,7 @@ Furthermore, Semaphore Sign is particularly skilled at guiding users through the
 
 #
 
-![Zoltan](https://github.com/user-attachments/assets/b62fd3dd-7f5b-47fc-8a09-e1af04d9ac8f)
+![Semaphore Sign](https://github.com/user-attachments/assets/0321afe6-b1ed-422a-853c-d8151a302ebb)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
