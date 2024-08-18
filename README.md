@@ -19,5 +19,9 @@ Furthermore, Semaphore Sign is particularly skilled at guiding users through the
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 
+#
+
+![Zoltan](https://github.com/user-attachments/assets/b62fd3dd-7f5b-47fc-8a09-e1af04d9ac8f)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
