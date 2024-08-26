@@ -14,6 +14,8 @@ Furthermore, Semaphore Sign is particularly skilled at guiding users through the
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Communication](https://github.com/sourceduty/Communication)
 
 #
 
