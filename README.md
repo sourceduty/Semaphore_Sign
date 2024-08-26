@@ -16,6 +16,10 @@ Furthermore, Semaphore Sign is particularly skilled at guiding users through the
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Communication](https://github.com/sourceduty/Communication)
+<br>
+[Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
+<br>
+[Politics](https://github.com/sourceduty/Politics)
 
 #
 
