@@ -24,6 +24,10 @@ Updated: DALL·E Image Generation added.
 [Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
 <br>
 [Politics](https://github.com/sourceduty/Politics)
+<br>
+[Socialogy](https://github.com/sourceduty/Sociology)
+<br>
+[Social Security](https://github.com/sourceduty/Social_Security)
 
 #
 
